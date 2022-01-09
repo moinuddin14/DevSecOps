@@ -1,4 +1,4 @@
-# Ultimate DevSecOps library
+# Ultimate & Great DevSecOps library
 
 ## Contribution rules
 If you want to contribute to this Library of knowledge please create proper PR (Pull request) with description what you are adding following these set of rules: 
